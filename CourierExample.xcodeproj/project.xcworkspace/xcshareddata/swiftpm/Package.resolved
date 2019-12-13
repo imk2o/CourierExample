@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Courier",
+        "repositoryURL": "https://github.com/imk2o/Courier.git",
+        "state": {
+          "branch": null,
+          "revision": "3d62fff21924f1b7ab1eab30220356308320c7d3",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
